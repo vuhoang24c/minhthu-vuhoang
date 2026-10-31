@@ -911,7 +911,7 @@ img {
   display: block;
   margin-top: 14px;
   font-family: var(--font-sans);
-  font-size: 13px;
+  font-size: 16px;
   font-weight: 600;
 }
 .wish-label {
@@ -1013,13 +1013,13 @@ img {
 
 /* Gifts */
 .gift-title {
-  margin-bottom: 22px;
+  /* margin-bottom: 22px; */
   font-family: var(--font-sans);
   font-size: 12px;
   font-weight: 600;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: #c9727b;
+  color: #0f3455;
 }
 .gift-list {
   display: grid;
